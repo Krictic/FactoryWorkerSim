@@ -26,9 +26,10 @@ var firingChance = 1
 
 # Coins of 19th England
 # Will not be used until i figure out how to properly convert the values
-#var pennies = 0.00
-#var shillings = 0.00
-#var pounds = 0.00
+var half_pennies = 0.00
+var pennies = 0.00
+var shillings = 0.00
+var pounds = 0.00
 
 # For calculating salary
 # Formula is: salaryHour * workHours
